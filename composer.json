@@ -1,5 +1,5 @@
 {
-    "name": "jp3cki/docomo-dialogue",
+    "name": "kokororin/docomo-dialogue",
     "type": "library",
     "description": "Wrapper for dialogue API by NTT docomo.",
     "keywords": ["docomo", "dialogue", "api", "rest"],
@@ -15,7 +15,7 @@
         "ext-mbstring": "*",
         "ext-pcre": "*",
         "ext-intl": "*",
-        "php-curl-class/php-curl-class": "^6.0"
+        "php-curl-class/php-curl-class": "^7.0"
     },
     "require-dev": {
         "apigen/apigen": "^4.1",
